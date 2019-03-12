@@ -105,3 +105,6 @@ Started GET "/hello_world" for 100.2.218.21 at 2019-03-12 20:37:08 +0000
 Processing by IndexController#hello_world as HTML
   Rendering index/index.html.erb within layouts/application
   Rendered index/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 358ms (Views: 358.1ms | ActiveRecord: 0.0ms)
+
+
